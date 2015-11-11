@@ -7,3 +7,4 @@ aaaa
 bbbb
 master
 -----
+use ssh
